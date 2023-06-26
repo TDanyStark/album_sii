@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^home controlador/album.php [L]
+RewriteRule ^login controlador/c_login.php [L]
+RewriteRule ^dashboard controlador/c_dashboard.php [L]
+RewriteRule ^legales vistas/legales.php [L]
+
+
+
+
+
